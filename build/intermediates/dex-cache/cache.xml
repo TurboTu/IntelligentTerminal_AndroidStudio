@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\internal_impl-22.2.1_bcf52045061e77edf4764bb5f209dd8ea9d88d95.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\support-annotations-22.2.1_3a028ed480471c92b5f2be9f7587f1ed3112c49d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.jmdns\jmdns\3.4.1\7ba2dcf7effb5ca9b00736b2a066fff3dd01d432\jmdns-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7ba2dcf7effb5ca9b00736b2a066fff3dd01d432">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\jmdns-3.4.1_63302309576e01a89a3df8efcf3d780a6a6ec585.jar" />
+    </item>
+    <item
+        jar="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\libs\zxing.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8122086ceb0fedeae8a87b8f91abd34f09653f8b">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\zxing_aebf24c8ae14df27c6bddc11a1d82587e57511b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.socket\engine.io-client\0.6.3\e3a26ee85fffb429bac318311a8ea1d85f5b9e13\engine.io-client-0.6.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3a26ee85fffb429bac318311a8ea1d85f5b9e13">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\engine.io-client-0.6.3_7fe7ce64a77712636075b7728e994cf037db0423.jar" />
+    </item>
+    <item
+        jar="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="278f41c38272b06134ea3d72425ce4d05289314d">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\BaiduLBS_Android_3faa8d236b4eb8abaf7dd3abfc5aa64233c05f02.jar" />
+    </item>
+    <item
+        jar="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-22.2.1_6f83a80ec6dbfb38e509bb15e00d061bdbaf3bd4.jar" />
+    </item>
+    <item
+        jar="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\libs\BaiduTraceSDK_v2_1_9.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="63db83b53e6f9efd7b634d4693d698391341c9e9">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\BaiduTraceSDK_v2_1_9_275015f86e232cdde2578f9e4327b46744f5bf04.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.7.0\ea871498d28a10d7c803c583b6b87fd74f4c6347\okhttp-ws-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea871498d28a10d7c803c583b6b87fd74f4c6347">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\okhttp-ws-2.7.0_9688dad26673e990a808c097e1a5c121558767ff.jar" />
+    </item>
+    <item
+        jar="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\libs\httpmime-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\httpmime-4.1.2_c659d3e1a36deb09615591b02e9e6f05f77e087b.jar" />
+    </item>
+    <item
+        jar="D:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\gson-2.2.4_4bdf16c588ee034599c4d23163c8cca82363c4cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\0.6.3\19b9fade3a6de2bdd416ee9df728cb19f6c7da1d\socket.io-client-0.6.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="19b9fade3a6de2bdd416ee9df728cb19f6c7da1d">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\socket.io-client-0.6.3_c61fda1931f8a15e41081d37ec3e6755494553c8.jar" />
+    </item>
+    <item
+        jar="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c62336e408d6dc3998013f3a4419f1895ad61b6b">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\gcm_408993b784d83a6141104c435a2aefc547257aaa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.0\1477ec5caf8319ab4b51eb43553cd66aa86fdea5\okhttp-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\okhttp-2.7.0_96ce89c0b6dcdcaf0b93f8d4d27c4d996b3ede3a.jar" />
+    </item>
+    <item
+        jar="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\libs\ksoap2-android-assembly-3.2.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="28d8f13fdec2fe5de24af98b7131c858c266bbea">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\ksoap2-android-assembly-3.2.0-jar-with-dependencies_127afadd8c02542885d4ac00d6ada9dff7bb1546.jar" />
+    </item>
+    <item
+        jar="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\libs\IndoorscapeAlbumPlugin.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b6c8bf896e0d23f4003b9a3cab4bff9af9adefda">
+        <dex dex="E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\pre-dexed\release\IndoorscapeAlbumPlugin_af2c81b1844fdfff7fce07da788cc73899c5b5cb.jar" />
+    </item>
+
+</items>

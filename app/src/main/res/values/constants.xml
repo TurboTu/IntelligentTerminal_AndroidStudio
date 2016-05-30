@@ -1,0 +1,12 @@
+<resources>
+    <!-- 命名空间 -->
+    <string name="NAMESPACE">http://tempuri.org/</string>
+    <!-- webservice地址 -->
+    <string name="ENDPOINT">http://58.57.131.90:899/WebService/Rm_ForAndroid.asmx</string>
+    <!-- 更新地址 -->
+    <string name="UPDATE_CHECKURL">http://58.57.131.90:899/update_.xml</string>
+    <!-- socket服务地址 -->
+    <string name="SOCKET_URL">http://58.57.131.90:8001</string>
+    <!-- 视频推送地址 -->
+    <string name="VIDEO_PUBLISH_URL">rtmp://119.4.240.161:1935</string>
+</resources>

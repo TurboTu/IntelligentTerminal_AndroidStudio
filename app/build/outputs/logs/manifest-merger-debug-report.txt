@@ -1,0 +1,354 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:2:1-188:12
+	xmlns:android
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\debug\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\debug\AndroidManifest.xml
+uses-sdk
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:22.2.1] E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\debug\AndroidManifest.xml
+application
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:12:5-142:19
+MERGED from [com.android.support:support-v4:22.2.1] E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:15:9-38
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:13:9-62
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:18:9-20:64
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:19:13-52
+	android:value
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:20:13-61
+activity#com.liu.hwkj.intelligent.MainActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:22:9-32:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:26:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:23:13-65
+	android:launchMode
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:24:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.liu.hwkj.intelligent.RoutingActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:33:9-37:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:36:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:34:13-68
+activity#com.liu.hwkj.intelligent.LoginActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:38:9-42:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:40:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:41:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:39:13-66
+activity#com.liu.hwkj.intelligent.EMapActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:43:9-47:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:45:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:46:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:44:13-65
+activity#com.liu.hwkj.intelligent.RoutingTaskListActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:48:9-52:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:50:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:51:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:49:13-76
+activity#com.liu.hwkj.intelligent.RoutingPointListActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:53:9-57:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:55:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:56:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:54:13-77
+activity#com.liu.hwkj.intelligent.RoutingExcuteActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:58:9-62:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:60:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:61:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:59:13-74
+activity#com.liu.hwkj.intelligent.FaultReportActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:63:9-67:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:65:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:66:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:64:13-72
+activity#com.liu.hwkj.intelligent.SystemAlarmListActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:69:9-73:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:71:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:72:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:70:13-76
+activity#com.liu.hwkj.intelligent.VideoPlaybackListActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:74:9-78:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:76:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:77:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:75:13-78
+activity#com.liu.hwkj.intelligent.FaultDealListActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:79:9-83:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:81:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:82:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:80:13-74
+activity#com.liu.hwkj.intelligent.SyncTimeActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:84:9-88:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:86:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:87:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:85:13-69
+activity#com.liu.hwkj.intelligent.RoutingRecordActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:89:9-93:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:91:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:92:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:90:13-74
+activity#com.liu.hwkj.intelligent.FileUploadActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:94:9-98:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:96:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:97:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:95:13-71
+activity#com.liu.hwkj.intelligent.SettingActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:99:9-103:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:101:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:102:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:100:13-68
+activity#com.liu.hwkj.intelligent.HelpActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:104:9-108:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:106:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:107:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:105:13-65
+activity#com.liu.hwkj.intelligent.UserInfoActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:109:9-113:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:111:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:112:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:110:13-69
+activity#com.liu.hwkj.intelligent.MeasureTemperatureActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:114:9-118:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:116:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:117:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:115:13-79
+activity#com.liu.hwkj.cameracapture.CameraMonitorActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:119:9-123:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:121:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:122:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:120:13-76
+activity#com.liu.hwkj.baidu.trackshow.BaiduTraceActivity
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:125:9-129:20
+	android:screenOrientation
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:127:13-49
+	android:theme
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:128:13-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:126:13-75
+service#com.liu.hwkj.intelligent.gps.GpsService
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:130:9-132:37
+	android:label
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:132:13-34
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:131:13-67
+service#com.baidu.trace.LBSTraceService
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:133:10-136:19
+	android:enabled
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:135:13-35
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:134:13-59
+service#com.liu.hwkj.baidu.trackshow.MonitorService
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:137:9-141:19
+	android:process
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:140:13-39
+	android:enabled
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:139:13-35
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:138:13-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:144:5-71
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:144:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:145:5-74
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:145:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:146:5-74
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:146:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:147:5-80
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:147:22-77
+uses-permission#android.permission.BAIDU_LOCATION_SERVICE
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:148:5-81
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:148:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:149:5-150:23
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:149:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:151:5-152:23
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:151:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:153:5-154:23
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:153:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:156:5-157:23
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:156:22-76
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:158:5-85
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:158:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:159:5-160:23
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:159:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:161:5-76
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:161:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:162:5-76
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:162:22-73
+uses-permission#android.permission.ACCESS_GPS
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:163:5-69
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:163:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:164:5-75
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:164:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:165:5-72
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:165:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:166:5-69
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:166:22-66
+uses-permission#android.permission.READ_SMS
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:167:5-67
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:167:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:168:5-67
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:168:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:170:5-68
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:170:22-65
+uses-permission#android.permission.CAMERA
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:171:5-172:23
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:171:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:174:5-175:23
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:174:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:176:5-177:23
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:176:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:178:5-81
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:178:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:179:5-75
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:179:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:180:5-73
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:180:22-70
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:182:5-183:23
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:182:22-78
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:184:5-80
+	android:name
+		ADDED from E:\private\StudioProject\IntelligentTerminal_AndroidStudio\app\src\main\AndroidManifest.xml:184:22-77

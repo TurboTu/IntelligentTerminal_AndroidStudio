@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 系统报警 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/main_blue"
+    android:orientation="vertical" >
+
+    <include layout="@layout/header_bar" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/header_layout_height"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="16dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="16dp" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <!-- 故障报警 -->
+
+            <LinearLayout
+                android:id="@+id/alarm_fault_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/round_white"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/alarm_fault_imageview"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/routing_task_wait_icon_blue"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/alarm_fault_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:text="@string/alarm_fault"
+                    android:textColor="@color/main_blue"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <!-- 巡检报警 -->
+
+            <LinearLayout
+                android:id="@+id/alarm_routing_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@color/main_blue"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/alarm_routing_imageview"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/routing_task_complete_icon_white"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/alarm_routing_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:text="@string/alarm_routing"
+                    android:textColor="@color/white"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <!-- 测温测气报警 -->
+
+            <LinearLayout
+                android:id="@+id/alarm_temperature_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@color/main_blue"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/alarm_temperature_imageview"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/routing_task_outofdate_icon_white"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/alarm_temperature_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:text="@string/alarm_temperature"
+                    android:textColor="@color/white"
+                    android:textSize="18sp" />
+            </LinearLayout>
+            <!-- 越域报警 -->
+
+            <LinearLayout
+                android:id="@+id/alarm_cross_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@color/main_blue"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/alarm_cross_imageview"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/routing_task_outofdate_icon_white"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/alarm_cross_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:text="@string/alarm_cross"
+                    android:textColor="@color/white"
+                    android:textSize="18sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:padding="15dp" >
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5px"
+            android:background="#B8B8B8"
+            android:visibility="visible" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:orientation="horizontal" >
+
+            <!-- 标题 -->
+
+            <View
+                android:layout_width="0.5px"
+                android:layout_height="fill_parent"
+                android:background="#B8B8B8"
+                android:visibility="visible" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/alarm_table_title"
+                android:textColor="@color/label_text_color_gray"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="0.5px"
+                android:layout_height="fill_parent"
+                android:background="#B8B8B8"
+                android:visibility="visible" />
+            <!-- 报警时间 -->
+
+            <TextView
+                android:layout_width="170dp"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/alarm_table_time"
+                android:textColor="@color/label_text_color_gray"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="0.5px"
+                android:layout_height="fill_parent"
+                android:background="#B8B8B8"
+                android:visibility="visible" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5px"
+            android:background="#B8B8B8"
+            android:visibility="visible" />
+
+        <ListView
+            android:id="@+id/alarm_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="@android:color/transparent"
+            android:divider="@color/main_gray"
+            android:dividerHeight="0.5px"
+            android:fadeScrollbars="true"
+            android:fastScrollEnabled="true" />
+    </LinearLayout>
+
+</LinearLayout>

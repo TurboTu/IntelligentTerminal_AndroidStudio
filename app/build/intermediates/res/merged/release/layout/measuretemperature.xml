@@ -1,0 +1,285 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+
+    <include layout="@layout/header_bar" />
+
+    <LinearLayout
+        android:id="@+id/info_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/routing_task_icon" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0dp"
+                android:text="@string/label_routing_task"
+                android:textColor="#6d6d6d"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/routing_task_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/label_routing_task"
+                android:textColor="#219bf1"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/routing_point_icon" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0dp"
+                android:text="@string/label_routing_point"
+                android:textColor="#6d6d6d"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/routing_point_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/label_routing_point"
+                android:textColor="#219bf1"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:src="@drawable/temperature_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="0dp"
+                    android:text="@string/label_temperature"
+                    android:textColor="#6d6d6d"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/temperature_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/label_temperature"
+                    android:textColor="#219bf1"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:src="@drawable/density_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/label_temperature"
+                    android:textColor="#6d6d6d"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/density_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="@string/label_density"
+                    android:textColor="#219bf1"
+                    android:textSize="18sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <SurfaceView
+        android:id="@+id/camera_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_weight="1" >
+    </SurfaceView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/capture_layout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/capture_bg_blue_selector"
+            android:clickable="true" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="15dp"
+                android:background="@drawable/capture_icon_white" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/label_capture"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/record_layout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/capture_bg_border_selector"
+            android:clickable="true" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="15dp"
+                android:background="@drawable/record_icon_blue" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/label_record"
+                android:textColor="#219bf1"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/label_measure_temperature"
+                android:textColor="#a0a0a0"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/temperature_content1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/label_temperature"
+                android:textColor="#a0a0a0"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/label_measure_density"
+                android:textColor="#a0a0a0"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/density_content1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/label_density"
+                android:textColor="#a0a0a0"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_submit"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/blue_round_selector"
+        android:padding="10dp"
+        android:text="@string/button_commit"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="normal" />
+
+</LinearLayout>

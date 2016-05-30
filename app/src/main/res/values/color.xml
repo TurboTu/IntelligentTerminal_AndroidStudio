@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="splash_bg">#4891ea</color>
+    <color name="bottom_bar_select">#4891ea</color>
+    <color name="bottom_bar_normal">#f1f1f1</color>
+    
+	<color name="label_text_color_gray">#a0a0a0</color>
+	<color name="label_text_color_blue">#219bf1</color>
+	
+	<color name="main_gray">#a0a0a0</color>
+	<color name="main_button_text_gray">#181818</color>
+	<color name="main_button_text_blue">#6593fc</color>
+	
+	<color name="header_bg_blue">#21a5f1</color>
+	<color name="main_blue">#21a5f1</color>
+	
+	<color name="pure_red">#FF0000</color>
+	<color name="pure_green">#00FF00</color>
+	
+	<color name="semi_transprent_white">#33FFFFFF</color>
+	<color name="semi_transprent_gray">#33a0a0a0</color>
+	<color name="semi_transprent_blue">#334891ea</color>
+	
+    <!-- 9,34,75 -->
+    <color name="dark_blue">#FF09224B</color>
+    <!-- 9,49,111 -->
+    <color name="middle_blue">#FF09316F</color>
+    <!-- 15,75,171 -->
+    <color name="light_blue">#FF0F4BAB</color>
+    <color name="light_blue_alpha">#AA0F4BAB</color>
+    <color name="video_list_text_gray">#9d9591</color>
+    <color name="round_corner_progress_bar_background_default">#5f5f5f</color>
+    <color name="round_corner_progress_bar_progress_default">#7f7f7f</color>
+    <color name="round_corner_progress_bar_secondary_progress_default">@android:color/transparent</color>
+    <color name="text">#ffffffff</color>
+    <color name="background_dark">#ff363636</color>
+    <color name="background_content">#ff454344</color>
+    <color name="custom_progress_background">#FF2f85ed</color>
+    <color name="custom_progress_green_header">#ff99cc00</color>
+    <color name="custom_progress_green_progress">#ff669900</color>
+    <color name="custom_progress_green_progress_half">#7f669900</color>
+    <color name="custom_progress_orange_header">#ffffbb33</color>
+    <color name="custom_progress_orange_progress">#ffff8800</color>
+    <color name="custom_progress_orange_progress_half">#7fff8800</color>
+    <color name="custom_progress_blue_header">#ff33b5e5</color>
+    <color name="custom_progress_blue_progress">#ff0099cc</color>
+    <color name="custom_progress_blue_progress_half">#7f0099cc</color>
+    <color name="custom_progress_purple_header">#ffaa66cc</color>
+    <color name="custom_progress_purple_progress">#ff9933cc</color>
+    <color name="custom_progress_purple_progress_half">#7f9933cc</color>
+    <color name="custom_progress_red_header">#ffcc0000</color>
+    <color name="custom_progress_red_progress">#ffff4444</color>
+    <color name="custom_progress_red_progress_half">#7fff4444</color>
+
+    <!-- common -->
+    <color name="header_bg">#FF09316F</color>
+    <color name="gray_bg">#FFBABBBD</color>
+    <color name="mode_bg">#88000000</color>
+    <color name="black_bg">#000000</color>
+    <color name="shadow">#80000000</color>
+    <color name="dark_bg_70p">#bb000000</color>
+    <color name="dark_bg_20p">#33000000</color>
+    <color name="common_bg">#f0f0f3</color>
+    <color name="title_text">#333333</color>
+    <color name="title_line">#b2b2b2</color>
+    <color name="common_line">#c8c7cc</color>
+    <color name="common_text">#333333</color>
+    <color name="common_text_sel">#3aa3ee</color>
+    <color name="common_sub_text">#888888</color>
+    <color name="common_hint_text">#adadad</color>
+    <color name="setting_hint_text">#adadad</color>
+    <color name="state_normal_text">#71c211</color>
+    <color name="state_abnormal_text">#eb0303</color>
+    <color name="state_off_text">#adadad</color>
+    <color name="bar_text">#676767</color>
+    <color name="bar_text_sel">#3aa3ee</color>
+    <color name="page_bg_color">#f8f8f8</color>
+    <color name="pureblack">#ff000000</color>
+    <color name="black">#333333</color>
+    <color name="black_text">#333333</color>
+    <color name="blue">#205ba9</color>
+    <color name="gray">#c8c8c8</color>
+    <color name="cameralist_gray">#e3e3e3</color>
+    <color name="page_change_gray">#8f8f8f</color>
+    <color name="gray_text">#adadad</color>
+    <color name="red">#bd2228</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="translucent_black">#c0000000</color>
+    <color name="text_black">#353535</color>
+    <color name="white">#ffffff</color>
+    <color name="yahei">#626262</color>
+    <color name="articletext_backcolor">#f7f7f7</color>
+    <color name="trans_bg_color">#c0ffffff</color>
+</resources>

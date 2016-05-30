@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智能移动终端</string>
+    <string name="app_name_en">Intelligent Terminal</string>
+    <string name="company_name">千公科技</string>
+    <string name="sys_name">智能移动终端软件系统</string>
+    <string name="main_routing">智能巡检</string>
+    <string name="main_temperature">测温测气</string>
+    <string name="main_talkback">智能对讲</string>
+    <string name="routing_emap">电子地图</string>
+    <string name="routing_task">巡检任务</string>
+    <string name="routing_record">巡检记录</string>
+    <string name="routing_fault">故障处理</string>
+    <string name="routing_video">视频回放</string>
+    <string name="routing_alarm">系统报警</string>
+    <string name="routing_upload">文件上传</string>
+    <string name="routing_user">用户信息</string>
+    <string name="routing_setting">系统设置</string>
+    <string name="routing_eclock">电子时钟</string>
+    <string name="routing_help">使用帮助</string>
+    <string name="label_routing_point">巡检点:</string>
+    <string name="label_routing_task">巡检任务:</string>
+    <string name="label_routing_content">巡检内容</string>
+    <string name="label_routing_person">巡检员:</string>
+    <string name="label_routing_starttime">巡检开始时间:</string>
+
+    <!-- 巡检任务 -->
+    <string name="label_routing_wait">待巡检</string>
+    <string name="label_routing_complete">已巡检</string>
+    <string name="label_routing_outofdate">已过期</string>
+    <string name="button_routing_operate">巡检</string>
+    <string name="task_table_name">名称</string>
+    <string name="task_table_begin">开始</string>
+    <string name="task_table_end">结束</string>
+    <string name="task_table_routingpoint">巡检点</string>
+    <string name="task_table_routed">已巡检</string>
+    <string name="task_table_state">状态</string>
+    <string name="task_table_operate">操作</string>
+    <string name="map_mode">地图模式</string>
+    <string name="list_mode">列表模式</string>
+    <string name="tast_listitem_title_label">名称：</string>
+    <string name="tast_listitem_title_button">巡检</string>
+    <string name="tast_excute_read_card">读卡</string>
+    <string name="tast_excute_confirm">确认正常</string>
+    <string name="tast_excute_fault_upload">故障上报</string>
+    <string name="tast_excute_finish">结束巡检</string>
+
+    <!-- 故障上报 -->
+    <string name="fault_title">故障标题:</string>
+    <string name="fault_type">故障类型:</string>
+    <string name="fault_desc">故障描述:\t</string>
+
+    <!-- 系统报警 -->
+    <string name="alarm_fault">故障报警</string>
+    <string name="alarm_routing">巡检报警</string>
+    <string name="alarm_temperature">测温测气报警</string>
+    <string name="alarm_cross">越域报警</string>
+    <string name="alarm_table_title">标题</string>
+    <string name="alarm_table_time">报警时间</string>
+    <!-- 视频回放 -->
+    <string name="video_play">播放</string>
+    <!-- 故障处理 -->
+    <string name="fault_deal">处理</string>
+    <string name="has_deal_button">已处理故障</string>
+    <string name="wait_deal_button">待处理故障</string>
+    <string name="label_service_time">服务器时间</string>
+    <string name="label_local_time">终端时间</string>
+    <string name="button_sync_time">时钟同步</string>
+    <string name="label_department">部门:</string>
+    <string name="label_density">浓度:</string>
+    <string name="label_measure_density">测量气体浓度:</string>
+    <string name="label_temperature">温度:</string>
+    <string name="label_measure_temperature">测量温度:</string>
+    <string name="label_capture">拍照</string>
+    <string name="label_record">录像</string>
+    <string name="user_label_xunjianyuan">巡检员:</string>
+    <string name="user_label_logindate">登录时间:</string>
+    <string name="user_label_logintimes">登录次数:</string>
+    <string name="button_commit">确认提交</string>
+    <string name="button_quit">退出系统</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="back_to_home">返回首页</string>
+    <string name="factory_bref">企业简介</string>
+    <string name="enter">进入</string>
+    <string name="bref">简介</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="soft_update_no">已经是最新版本</string>
+    <string name="soft_update_title">软件更新</string>
+    <string name="soft_update_info">检测到新版本，立即更新吗</string>
+    <string name="soft_update_updatebtn">更新</string>
+    <string name="soft_update_later">稍后更新</string>
+    <string name="soft_updating">下载中，请稍后...</string>
+    <string name="soft_update_cancel">取消</string>
+
+    <!-- Login页面 -->
+    <string name="login_label_username">输入用户名/帐号</string>
+    <string name="login_label_password">请输入密码</string>
+    <string name="login_label_signin">登录</string>
+    <string name="register_label_signin">注册</string>
+    <string name="forget_pass">忘记密码></string>
+    <string name="recd">记住密码</string>
+    <string name="login_status_logging_in">登录中...</string>
+    <string name="login_status_null_username_or_password">帐号和密码不能为空。</string>
+    <string name="login_status_invalid_username_or_password">帐号或密码错误，请重新输入。</string>
+    <string name="login_status_network_or_connection_error">网络错误，请稍后再试。</string>
+    <string name="login_register_link"></string>
+    <string name="login_status_failure">登录失败。</string>
+
+    <!-- 设置界面 -->
+    <string name="setting_current_version">当前版本</string>
+    <string name="setting_sys_update">系统更新</string>
+    <string name="setting_advanced">高级设置</string>
+    <string name="setting_allowed_net">允许上网</string>
+    <string name="setting_sys_location">系统定位</string>
+    <string name="help">1、使用帮助1；\n
+2、使用帮助2；\n
+3、使用帮助3；\n
+4、使用帮助4；\n
+5、使用帮助5；\n
+6、使用帮助6；\n
+7、使用帮助7；\n
+8、使用帮助8；\n
+9、使用帮助9；\n
+10、使用帮助10；\n
+11、使用帮助11；\n
+12、使用帮助12；\n
+13、使用帮助13；\n
+14、使用帮助14；\n
+15、使用帮助15；\n
+16、使用帮助16；\n
+17、使用帮助17；\n
+18、使用帮助18；\n
+19、使用帮助19；\n</string>
+    <string name="app_titile">百度鹰眼</string>
+    <string name="start_trace">开始</string>
+    <string name="stop_trace">停止</string>
+    <string name="select_date">日期</string>
+    <string name="fence_operator">操作</string>
+    <string name="is_processed">纠偏</string>
+    <string name="geo_fence">地理围栏</string>
+    <string name="track_upload">轨迹追踪</string>
+    <string name="track_query">历史轨迹</string>
+    <string name="history_track">  查询历史轨迹</string>
+    <string name="realtime_track">查询实时轨迹</string>
+    <string name="set_fence">设置围栏</string>
+    <string name="delete_fence">删除围栏</string>
+    <string name="fence_list">围栏列表</string>
+    <string name="monitored_status">监控状态</string>
+    <string name="history_alarm">历史报警</string>
+    <string name="delay_alarm">延迟报警</string>
+    <string name="fence_name">围栏名称</string>
+    <string name="fence_desc">围栏描述</string>
+    <string name="fence_radius">围栏半径</string>
+
+</resources>

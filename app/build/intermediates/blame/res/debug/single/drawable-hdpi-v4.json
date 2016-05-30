@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue_arrow_up.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\blue_arrow_up.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\read_card_normal.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\read_card_normal.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\overlay_active.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\overlay_active.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\track_wheel_bg.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\track_wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture_bg_blue.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\capture_bg_blue.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_eclock.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_eclock.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_select_round.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\red_select_round.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_talkback_unselect.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\main_talkback_unselect.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_talkback_select.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\main_talkback_select.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue_select_round.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\blue_select_round.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_1.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\progress_1.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_task.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_task.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture_bg_border_press.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\capture_bg_border_press.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_upload.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_upload.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue_arrow_right.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\blue_arrow_right.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bg.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\main_bg.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\username_ico.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\username_ico.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_8.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\progress_8.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_white.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\back_white.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_point_icon.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_point_icon.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_3.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\progress_3.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\time_icon.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\time_icon.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture_bg_border.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\capture_bg_border.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_playback_icon.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\video_playback_icon.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_gray_border.9.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\round_gray_border.9.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\close_white.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\close_white.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_emap.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_emap.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_nomal.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\checkbox_nomal.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_task_complete_icon_blue.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_task_complete_icon_blue.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_start.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\icon_start.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_corner_progress_icon.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\round_corner_progress_icon.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_confirm_select.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_confirm_select.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture_icon_white.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\capture_icon_white.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_alarm.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_alarm.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_btn_pressed.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\switch_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_6.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\progress_6.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_help.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_help.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rect_border_gray.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\rect_border_gray.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\close.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_task_complete_icon_white.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_task_complete_icon_white.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_task_outofdate_icon_blue.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_task_outofdate_icon_blue.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_video.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_video.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sel_dot.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\sel_dot.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fault_upload_normal.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\fault_upload_normal.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_info.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\user_info.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue_unselect_round.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\blue_unselect_round.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue_arrow_down.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\blue_arrow_down.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_routing_select.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\main_routing_select.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\touxiang.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\touxiang.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\read_card_select.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\read_card_select.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_mode_normal.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\list_mode_normal.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_routing_unselect.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\main_routing_unselect.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\density_icon.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\density_icon.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emap_department.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\emap_department.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\track_wheel_val.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\track_wheel_val.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_end.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\icon_end.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_fault.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_fault.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_bg.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\tab_bg.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\temperature_icon.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\temperature_icon.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_checked.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\checkbox_checked.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\overlay_normal.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\overlay_normal.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emap_clock_icon.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\emap_clock_icon.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fault_upload_select.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\fault_upload_select.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_task_icon.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_task_icon.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_temperature_select.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\main_temperature_select.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_thumb.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\switch_thumb.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_icon_blue.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\record_icon_blue.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_finish_select.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_finish_select.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_7.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\progress_7.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_unselect_round.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\red_unselect_round.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emap_routing_person_icon.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\emap_routing_person_icon.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_mode_normal.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\map_mode_normal.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_gcoding.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\icon_gcoding.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_frame.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\switch_frame.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_task_wait_icon_blue.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_task_wait_icon_blue.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_task_wait_icon_white.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_task_wait_icon_white.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_finish_normal.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_finish_normal.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_record.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_record.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_task_outofdate_icon_white.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_task_outofdate_icon_white.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue_select_rect.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\blue_select_rect.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_5.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\progress_5.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_bottom.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\switch_bottom.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_4.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\progress_4.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bg.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\dialog_bg.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture_bg_blue_press.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\capture_bg_blue_press.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\password_ico.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\password_ico.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_temperature_unselect.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\main_temperature_unselect.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_setting.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_setting.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_bg.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\login_bg.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_mode_select.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\map_mode_select.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_mode_select.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\list_mode_select.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_mask.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\switch_mask.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_2.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\progress_2.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_confim_normal.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_confim_normal.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\routing_user.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\routing_user.png"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue_unselect_rect.png",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\blue_unselect_rect.png"
+    }
+]

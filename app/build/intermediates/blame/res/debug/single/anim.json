@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_up.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\anim\\fade_up.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_clockwise.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\anim\\rotate_clockwise.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\anim\\progress_round.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\anim\\progress_round.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_down.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\anim\\fade_down.xml"
+    }
+]

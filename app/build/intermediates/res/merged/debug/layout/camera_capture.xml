@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/button_layout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="推送"
+            android:id="@+id/publish"
+            android:layout_alignParentTop="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="停止"
+            android:id="@+id/stop"
+            android:layout_toRightOf="@id/publish"
+            android:layout_marginTop="0dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="切换摄像头"
+            android:id="@+id/swCam"
+            android:layout_alignBottom="@id/stop"
+            android:layout_toRightOf="@id/stop" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="旋转"
+            android:id="@+id/rotate"
+            android:layout_above="@+id/url"
+            android:layout_toRightOf="@id/swCam" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="推送地址:"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+        <EditText
+            android:id="@+id/vbitrate"
+            android:textSize="14dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="帧率:"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:id="@+id/url"
+            android:layout_toRightOf="@id/vbitrate" />
+    </LinearLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:id="@+id/frameLayout">
+
+        <SurfaceView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/preview" />
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.liu.hwkj.intelligentterminal"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+ <!-- 支持4.2.2以上版本 -->
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.BAIDU_LOCATION_SERVICE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+    <!-- <uses-permission android:name="android.permission.WRITE_APN_SETTINGS"></uses-permission> -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" >
+    </uses-permission>
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_GPS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <!-- SDK1.5需要android.permission.GET_TASKS权限判断本程序是否为当前运行的应用? -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.CAMERA" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.RECORD_AUDIO" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <!-- 来电消音 -->
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+
+    <!-- 获取地理位置 -->
+
+    <application
+        android:name="com.liu.hwkj.intelligent.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="qqF2Tg2GHLBGxn7eQkvW9x7TlO1BGt4c" />
+
+        <activity
+            android:name="com.liu.hwkj.intelligent.MainActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.RoutingActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.LoginActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.EMapActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.RoutingTaskListActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.RoutingPointListActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.RoutingExcuteActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.FaultReportActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.SystemAlarmListActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.VideoPlaybackListActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.FaultDealListActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.SyncTimeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.RoutingRecordActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.FileUploadActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.SettingActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.HelpActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.UserInfoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.intelligent.MeasureTemperatureActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.liu.hwkj.cameracapture.CameraMonitorActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <!-- 百度地图定位 -->
+        <activity
+            android:name="com.liu.hwkj.baidu.trackshow.BaiduTraceActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+
+        <service
+            android:name="com.liu.hwkj.intelligent.gps.GpsService"
+            android:label="GPS服务" />
+        <service
+            android:name="com.baidu.trace.LBSTraceService"
+            android:enabled="true" >
+        </service>
+        <service
+            android:name="com.liu.hwkj.baidu.trackshow.MonitorService"
+            android:enabled="true"
+            android:process=":monitor" >
+        </service>
+    </application>
+
+</manifest>

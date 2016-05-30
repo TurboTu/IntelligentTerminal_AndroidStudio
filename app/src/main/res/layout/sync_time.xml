@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 数据 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include layout="@layout/header_bar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/time_icon" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/label_service_time"
+                android:textColor="@color/main_gray"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/service_time_textview"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/rect_border_gray"
+                android:gravity="center"
+                android:text=""
+                android:textColor="@color/main_gray"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/time_icon" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/label_local_time"
+                android:textColor="@color/main_gray"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/local_time_textview"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/rect_border_gray"
+                android:gravity="center"
+                android:text=""
+                android:textColor="@color/main_gray"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/sync_button"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/blue_round_selector"
+        android:padding="10dp"
+        android:text="@string/button_sync_time"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="normal" />
+
+</LinearLayout>

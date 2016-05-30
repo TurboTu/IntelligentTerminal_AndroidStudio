@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 巡检任务 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include layout="@layout/header_bar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/header_layout_height"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="16dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="16dp" >
+
+        <LinearLayout
+            android:id="@+id/has_deal_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@drawable/round_white"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/has_deal_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/has_deal_button"
+                android:textColor="@color/main_gray"
+                android:textSize="18sp" />
+
+            <View
+                android:id="@+id/has_deal_underline"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="2dp"
+                android:background="@color/main_blue"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/wait_deal_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="30dp"
+            android:background="@drawable/round_white"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/wait_deal_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wait_deal_button"
+                android:textColor="@color/main_blue"
+                android:textSize="18sp" />
+
+            <View
+                android:id="@+id/wait_deal_underline"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="2dp"
+                android:background="@color/main_blue" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/fault_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="1dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/round_gray_border"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="@color/main_gray"
+        android:dividerHeight="0.5px"
+        android:fadeScrollbars="true"
+        android:fastScrollEnabled="true" />
+
+</LinearLayout>

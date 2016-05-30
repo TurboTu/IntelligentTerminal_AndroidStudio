@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\release\\color\\textview_txtcolor_selector.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\color\\textview_txtcolor_selector.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\release\\color\\title_down_text_selector.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\color\\title_down_text_selector.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\release\\color\\button_bg_white_selector.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\color\\button_bg_white_selector.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\release\\color\\button_bg_blue_selector.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\color\\button_bg_blue_selector.xml"
+    }
+]

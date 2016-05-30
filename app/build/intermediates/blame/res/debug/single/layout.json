@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\routing.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\routing.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emap.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\emap.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\measuretemperature.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\measuretemperature.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customprogressdialog.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\customprogressdialog.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\baidu_tarce.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\baidu_tarce.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\system_alarm_listview_item.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\system_alarm_listview_item.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\routing_execute.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\routing_execute.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_round_corner_progress_bar.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\layout_round_corner_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_icon_round_corner_progress_bar.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\layout_icon_round_corner_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\squaregrid_item.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\squaregrid_item.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bottom.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\fragment_bottom.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_trackupload.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\fragment_trackupload.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_playback.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\video_playback.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fault_type_listview_item.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\fault_type_listview_item.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fault_report.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\fault_report.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sync_time.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\sync_time.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fault_deal.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\fault_deal.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\routing_record.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\routing_record.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_bar.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\header_bar.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_title.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\fragment_title.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\routing_task.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\routing_task.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\system_alarm.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\system_alarm.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\routing_point.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\routing_point.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_trackquery.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\fragment_trackquery.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\softupdate_progress.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\softupdate_progress.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_playback_listview_item.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\video_playback_listview_item.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_select_wheel.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\date_select_wheel.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\routing_point_listview_item.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\routing_point_listview_item.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_capture.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\camera_capture.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fileupload.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\fileupload.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_text_round_corner_progress_bar.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\layout_text_round_corner_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\routing_task_listview_item.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\routing_task_listview_item.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_geofence.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\menu_geofence.xml"
+    },
+    {
+        "merged": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fault_deal_listview_item.xml",
+        "source": "E:\\private\\StudioProject\\IntelligentTerminal_AndroidStudio\\app\\src\\main\\res\\layout\\fault_deal_listview_item.xml"
+    }
+]

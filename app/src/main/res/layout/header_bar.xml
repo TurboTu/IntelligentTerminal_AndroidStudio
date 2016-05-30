@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/header_layout"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/header_layout_height"
+    android:background="@color/header_bg_blue"
+    android:gravity="center_vertical" >
+
+    <LinearLayout
+        android:id="@+id/back_button"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:background="@color/button_bg_white_selector"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/back_white" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@null"
+        android:clickable="true"
+        android:text="@string/sys_name"
+        android:textColor="#FFFFFFFF"
+        android:textSize="@dimen/header_title_size"
+        android:textStyle="normal" />
+
+    <LinearLayout
+        android:id="@+id/user_info_layout"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:background="@color/button_bg_white_selector"
+        android:gravity="center"
+        android:orientation="horizontal" 
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/user_info" />
+    </LinearLayout>
+
+</RelativeLayout>
